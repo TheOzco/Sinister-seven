@@ -3,8 +3,8 @@
 const SUITS = { H: '♥', D: '♦', C: '♣', S: '♠' };
 
 // ⚠️ اینجا رو پر کن:
-const SUPABASE_URL = 'https://YOUR_PROJECT_ID.supabase.co';
-const SUPABASE_ANON_KEY = 'YOUR_ANON_KEY';
+const SUPABASE_URL = 'https://sghnaejabmhrmesnijts.supabase.co';
+const SUPABASE_ANON_KEY = 'sb_publishable_sb4bRaFT0kGtZBkHUAco3A_GrL4t69q';
 
 // Supabase API
 class SupabaseClient {
